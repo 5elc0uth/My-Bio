@@ -1,0 +1,155 @@
+body{
+    background-color: #DFF6FF;
+    color: #DFF6FF;
+    margin: 0;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.dev{
+    text-decoration: underline;
+}
+
+p.bio-intro{
+        width: 50%;
+        margin: auto;
+    }
+p{
+    line-height: 1.5;
+}
+p.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+p.copy-right{
+    color: #EAF6F6;
+    font-size: .75rem;
+    padding: 20px 0;
+}
+
+hr{
+    border: dotted #2f3333 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a{
+    color: #11999E;
+    font-family:'Merriweather Sans', sans-serif;
+    margin: 05px 05px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+
+h1{
+    color: #66bfbf;
+    font-family:'Merriweather Sans', sans-serif;
+    font-family: 'Smooch', cursive;
+    margin: 50px auto o auto;}
+.h2{
+    color:  #66bfbf;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Zen Loop', cursive;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+.h3{
+    color:  #66bfbf;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Zen Loop', cursive;
+    font-size: 1.5rem;
+}
+
+
+img.contact{
+    width: 100px;
+}
+img.work{
+    width: 100px;
+}
+img.fb{
+    width: 11px;
+}
+img.ig{
+    width: 11px;
+}
+img.tw{
+    width: 11px;
+}
+
+img.skill{
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+    padding-top: 100px;
+}
+img.skill-tools{
+    width: 100px;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+.top-container{
+    
+    position: relative;
+    padding-top: 100px;}
+
+    .middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+
+    margin: 100px 0;
+    padding: 50px 0 20px;
+}
+
+
+img.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;}
+img.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.btn {
+    background: #525858;
+    background-image: -webkit-linear-gradient(top, #525858, #525858);
+    background-image: -moz-linear-gradient(top, #525858, #525858);
+    background-image: -ms-linear-gradient(top, #525858, #525858);
+    background-image: -o-linear-gradient(top, #525858,  #525858);
+    background-image: linear-gradient(to bottom, #525858, #525858);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover{
+    background: #525858;
+    background-image: -webkit-linear-gradient(top, #525858, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #525858, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #525858, #2BC4AD);
+    background-image: -o-linear-gradient(top, #525858, #2BC4AD);
+    background-image: linear-gradient(to bottom, #525858, #2BC4AD);
+    text-decoration: none;
+  }

@@ -1,0 +1,85 @@
+body{
+    
+    color: #66bfbf;
+    margin: 0;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #b8c9c9;
+}
+
+div.btn:hover{
+    font-family:'Merriweather Sans', sans-serif;
+    margin: 05px 05px;
+}
+
+
+.h3{
+    color:  #66bfbf;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Zen Loop', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+hr{
+    border: dotted #2f3333 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+img.web-dev{
+    width: 50px;
+}
+img.ms-word{
+    width: 50px;
+}
+img.construction{
+    width: 50px;
+}
+img.soccer{
+    width: 50px;
+}
+img.music{
+    width: 50px;
+}
+img.movies{
+    width: 50px;
+}
+img.v-game{
+    width: 0px;
+}
+img.dp{
+    width: 50px;
+}
+
+p.copy-right{
+    font-size: .75rem;
+    width: auto;
+    padding: 100px 0;
+    text-align: center;
+}
+
+p{
+    width: 100px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.top-container{
+    position: relative;
+    left: 45%;
+    padding-top: 0px;
+}
+.mid-container{
+    position: relative;
+    left: 45%;
+}
+.bottom-container{
+    position: relative;
+    left: 45%;
+}
+
